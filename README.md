@@ -1,5 +1,7 @@
 #### Getting Started
 
+https://juejin.cn/post/7247044423024721980
+
 1.  选择项目文件夹
 
 ```bash
