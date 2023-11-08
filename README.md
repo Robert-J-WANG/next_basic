@@ -1,8 +1,6 @@
 
 
-#### Getting Started
-
-https://juejin.cn/post/7247044423024721980
+### Getting Started
 
 1.  选择项目文件夹
 
@@ -31,7 +29,7 @@ yarn dev
 
 
 
-#### 运行与构建
+### 运行与构建
 
 1. 体验开发环境
 
@@ -72,7 +70,7 @@ yarn dev
 
         
 
-#### Next.js 13 中的 App Router
+### Next.js 13 中的 App Router
 
 1. 路由约定：
 
